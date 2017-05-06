@@ -1,5 +1,7 @@
 # IronGram
 
+### Description 
+
 The IronGram assignment is a small web app that is designed to be similar to Snapchat. The user creates a username and 
 password, and can then specify the person they'd like to send a photo to. The sender can determine the number of seconds
 that the photo is displayed to the receiver.
